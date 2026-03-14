@@ -11,8 +11,14 @@ to build consistency
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

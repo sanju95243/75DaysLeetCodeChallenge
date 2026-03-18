@@ -8,6 +8,7 @@ to build consistency
 | ------- |
 | [0049-group-anagrams](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
@@ -50,4 +51,8 @@ to build consistency
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@ to build consistency
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -25,6 +26,7 @@ to build consistency
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -62,6 +64,7 @@ to build consistency
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |

@@ -82,6 +82,7 @@ to build consistency
 | ------- |
 | [0011-container-with-most-water](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
@@ -145,6 +146,7 @@ to build consistency
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sanju95243/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |

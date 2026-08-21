@@ -1,13 +1,20 @@
-class Solution:
+class Solution(object):
     def isPalindrome(self, s):
-        s = s.lower()
-        s = ''.join(c for c in s if c.isalnum())     
+        new=""
+        for ch in s:
+            if ch.isalnum():
+                new+=ch.lower()
+
         left = 0
-        right = len(s) - 1
-        while left < right:
-            if s[left] != s[right]:
+        right = len(new)-1
+
+        while left<right:
+            if new[left] != new[right]:
                 return False
-            left += 1
-            right -= 1
-        return True
+            left+=1
+           
+            right-=1 
+        return True  
+
+
         
